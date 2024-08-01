@@ -1,0 +1,8 @@
+Assignment Details : 
+
+Create a conversational PDF chatbot using Open AI / Open Source LLM APIs and FastAPI. Allow the user to upload a PDF file and chat with the PDF contents.
+
+You can create a free account at Open AI and use the free credits to create your AI bot or create an account on https://huggingface.co/ or https://console.groq.com/ to access open-source LLMs.
+Use RAG in assignments.
+There should be at least one API endpoint where you send the user query and get the LLM response.
+Create Unit Tests for all functionalities
